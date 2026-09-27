@@ -22,7 +22,7 @@ Full support for all interactions within and between other inventory objects.
 Items are stored in slots, and their max stack size is dictated by a data table.
 Items slots of the same item are filled before empty slots are utilized. 
 
-![image](https://github.com/CrunchyBuncher/Inventory-System-UE5/assets/33844493/71fcc57e-5799-4654-b4e6-c1d40fb135bf)
+![Item data table](githubimages/itemdatatable.png)
 
 <img src="githubimages/pickingupitems.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
